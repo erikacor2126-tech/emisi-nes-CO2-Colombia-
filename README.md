@@ -161,16 +161,3 @@ if r2 >= 0:
 else:
     print("R² negativo: el modelo predice peor que el promedio")
 
-# Análisis Emisiones CO₂ Colombia
-## Integrantes
-Erika Cortes, Ximena Celix, Isabella Cardales
-## Curso
-Introducción a Ciencias de Datos
-## Objetivo
-Limpiar, visualizar emisiones anuales de CO₂ de Colombia y ajustar un modelo de regresión lineal (año vs emisiones)
-## Fuente
-Our World in Data CO₂ emissions dataset
-## Archivo principal
-proyecto‑co2‑colombia.ipynb
-## Evidencia grupal
-Los commits realizados por cada integrante demuestran la participación colaborativa
